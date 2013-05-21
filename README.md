@@ -1,4 +1,4 @@
-WebChatDefault-1
+Web Chat Example
 ================
 
-Tests the side-by-side NPM infrastructure for the default version of node.js.  Uses a package.json without any engine entry.
+Demonstrates using socket.io with the socket.io-sb plug-in

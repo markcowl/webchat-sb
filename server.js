@@ -74,7 +74,7 @@ io.configure(function() {
    io.set('log level', 5);
    io.set('store', new SbStore({
     topic: "siobackup1",
-    connectionString: process.env.SB_CONNECTION_STRING
+    connectionString: connstr
   }));
 });
 
